@@ -11,7 +11,7 @@ Written in Python
 
 1. Jalankan Purple_NetCafe_Launcher.exe, maka akan otomatis terbuka
 2. Jalankan Purple_NetCafe_Launcher.exe -s atau file z_Server_Mode.bat untuk membuka toolkit
-3. Toolkit akan membuat registry Netmarble tersimpan saat menekan tombol Kill
+3. Toolkit akan membuat registry Purple Launcher tersimpan saat menekan tombol Kill
 
 ## Notes Virtual Drive
 Buka file config.ini untuk mengganti mode virtual drive dan mengganti letternya (default : on, letter Q)
